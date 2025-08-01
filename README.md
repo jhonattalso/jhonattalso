@@ -1,4 +1,4 @@
-## 🌊 **Jhonatta Lima Sandes de Oliveira**
+## ⚡ **Jhonatta Lima Sandes de Oliveira**
 
 ```Software Development, Data Analysis & Automation```
 
