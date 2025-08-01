@@ -9,9 +9,10 @@ Currently pursuing a degree in Systems Analysis and Development (2nd out of 4 se
 
 ### My Github Stats
 <div>
-  <a href="https://github.com/seu-usuário-aqui">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonattalso&layout=compact&langs_count=7&theme=tokyonight&title_color=0018f9"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonattalso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&icon_color=0018f9&title_color=0018f9"/>
+  <a href="https://github.com/jhonattalso">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonattalso&layout=compact&langs_count=7&theme=tokyonight&title_color=#ffff40"/>
+    
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonattalso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&icon_color=dbd265&title_color=ffff40"/>
 </div>
 
 
