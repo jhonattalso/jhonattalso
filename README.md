@@ -2,8 +2,7 @@
 
 ```Software Development, Data Analysis & Automation```
 
-Currently pursuing a degree in Systems Analysis and Development (2nd out of 4 semesters) at FIAP.
-Passionate about high-performance training, pushing physical limits, martial arts, gym, tech and have a purpose.
+Currently pursuing a degree in Systems Analysis and Development (2nd out of 4 semesters) at FIAP. Passionate about high-performance training, pushing physical limits, martial arts, gym, tech and have a purpose.
 
 ### Stacks
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,ts,oracle,mysql,java,nextjs,react,nodejs,tailwind,postman,git&titles=true)
@@ -11,8 +10,8 @@ Passionate about high-performance training, pushing physical limits, martial art
 ### My Github Stats
 <div>
   <a href="https://github.com/seu-usuário-aqui">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonattalso&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonattalso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonattalso&layout=compact&langs_count=7&theme=tokyonight&title_color=0018f9"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonattalso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&icon_color=0018f9&title_color=0018f9"/>
 </div>
 
 
